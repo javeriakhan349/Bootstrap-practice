@@ -1,0 +1,15 @@
+.registerbtn{
+    background-color: #4CAF4F;
+padding-top: 9.74px;
+padding-right: 22.27px;
+padding-bottom: 9.74px;
+padding-left: 22.27px;
+border-radius: 2.78px;
+
+}
+registerbtn:hover{
+    background-color: #377e39;
+}
+.nav{
+    justify-content: space-evenly;
+}
