@@ -75,3 +75,13 @@ font-size: 25.06px;
     font-size: 44.55px;
     font-weight: 600;
 }
+.five{
+    background-color: #263238;
+    color: #ffffff !important;
+}
+.five ul {
+    list-style-type: none ;
+}
+.white{
+    color: #ffffff;
+}
